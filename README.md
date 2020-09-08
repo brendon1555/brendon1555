@@ -21,6 +21,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendon1555&theme=radical&layout=compact" />
 </a>
 
+## 👨‍💻 Some Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anomaly&repo=github-secrets-cli&theme=radical)](https://github.com/anomaly/github-secrets-cli)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brendon1555&repo=setup-linode-cli&theme=radical)](https://github.com/brendon1555/setup-linode-cli)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brendon1555&repo=react-analogue-clock&theme=radical)](https://github.com/brendon1555/react-analogue-clock)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brendon1555&repo=extra-prop-types&theme=radical)](https://github.com/brendon1555/extra-prop-types)
+
 <!--
 **brendon1555/brendon1555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
