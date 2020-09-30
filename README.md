@@ -1,4 +1,5 @@
 # Hi there 👋
+![](https://komarev.com/ghpvc/?username=brendon1555&color=fe428e)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-141321?style=flat&logo=windows&logoColor=white&labelColor=fe428e)
