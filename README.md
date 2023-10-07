@@ -23,8 +23,8 @@
 </a>
 
 ## 👨‍💻 Some Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anomaly&repo=Doko&theme=radical)](https://github.com/anomaly/Doko)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anomaly&repo=use-doko&theme=radical)](https://github.com/anomaly/use-doko)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brendon1555&repo=panda-preset-unique-utilities&theme=radical)](https://github.com/brendon1555/panda-preset-unique-utilities)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brendon1555&repo=panda-cx-deduplicator&theme=radical)](https://github.com/brendon1555/panda-cx-deduplicator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anomaly&repo=github-secrets-cli&theme=radical)](https://github.com/anomaly/github-secrets-cli)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brendon1555&repo=setup-linode-cli&theme=radical)](https://github.com/brendon1555/setup-linode-cli)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brendon1555&repo=react-analogue-clock&theme=radical)](https://github.com/brendon1555/react-analogue-clock)
